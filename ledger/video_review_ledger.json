@@ -14,15 +14,7 @@
       "views": 182340,
       "declared_disclosure": "verbal_and_on_screen",
       "ad_payout_usd": 1450.0,
-      "transcript_path": "archive/transcripts/VID-2101.txt",
-      "review": {
-        "severity": "compliant",
-        "required_action": "none",
-        "remediation_deadline": null,
-        "payout_status": "released",
-        "payout_released_usd": 1450.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2101.txt"
     },
     {
       "video_id": "VID-2102",
@@ -35,15 +27,7 @@
       "views": 421007,
       "declared_disclosure": "verbal",
       "ad_payout_usd": 2100.0,
-      "transcript_path": "archive/transcripts/VID-2102.txt",
-      "review": {
-        "severity": "critical",
-        "required_action": "takedown_request",
-        "remediation_deadline": "2026-11-13",
-        "payout_status": "hold",
-        "payout_released_usd": 0.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2102.txt"
     },
     {
       "video_id": "VID-2103",
@@ -56,15 +40,7 @@
       "views": 96312,
       "declared_disclosure": "verbal",
       "ad_payout_usd": 1680.5,
-      "transcript_path": "archive/transcripts/VID-2103.txt",
-      "review": {
-        "severity": "major",
-        "required_action": "disclosure_correction",
-        "remediation_deadline": "2026-11-14",
-        "payout_status": "partial_hold",
-        "payout_released_usd": 840.25,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2103.txt"
     },
     {
       "video_id": "VID-2104",
@@ -77,15 +53,7 @@
       "views": 54118,
       "declared_disclosure": "none",
       "ad_payout_usd": 900.0,
-      "transcript_path": "archive/transcripts/VID-2104.txt",
-      "review": {
-        "severity": "major",
-        "required_action": "disclosure_correction",
-        "remediation_deadline": "2026-11-14",
-        "payout_status": "partial_hold",
-        "payout_released_usd": 450.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2104.txt"
     },
     {
       "video_id": "VID-2105",
@@ -98,15 +66,7 @@
       "views": 73450,
       "declared_disclosure": "verbal",
       "ad_payout_usd": 780.0,
-      "transcript_path": "archive/transcripts/VID-2105.txt",
-      "review": {
-        "severity": "compliant",
-        "required_action": "none",
-        "remediation_deadline": null,
-        "payout_status": "released",
-        "payout_released_usd": 780.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2105.txt"
     },
     {
       "video_id": "VID-2106",
@@ -119,15 +79,7 @@
       "views": 39120,
       "declared_disclosure": "on_screen",
       "ad_payout_usd": 420.0,
-      "transcript_path": "archive/transcripts/VID-2106.txt",
-      "review": {
-        "severity": "compliant",
-        "required_action": "none",
-        "remediation_deadline": null,
-        "payout_status": "released",
-        "payout_released_usd": 420.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2106.txt"
     },
     {
       "video_id": "VID-2107",
@@ -140,15 +92,7 @@
       "views": 28774,
       "declared_disclosure": "none",
       "ad_payout_usd": 380.0,
-      "transcript_path": "archive/transcripts/VID-2107.txt",
-      "review": {
-        "severity": "minor",
-        "required_action": "creator_coaching",
-        "remediation_deadline": "2026-11-19",
-        "payout_status": "released",
-        "payout_released_usd": 380.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2107.txt"
     },
     {
       "video_id": "VID-2108",
@@ -161,15 +105,7 @@
       "views": 61230,
       "declared_disclosure": "none",
       "ad_payout_usd": 0.0,
-      "transcript_path": "archive/transcripts/VID-2108.txt",
-      "review": {
-        "severity": "minor",
-        "required_action": "ledger_correction",
-        "remediation_deadline": "2026-11-19",
-        "payout_status": "released",
-        "payout_released_usd": 0.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2108.txt"
     },
     {
       "video_id": "VID-2109",
@@ -182,15 +118,7 @@
       "views": 45780,
       "declared_disclosure": "verbal",
       "ad_payout_usd": 640.0,
-      "transcript_path": "archive/transcripts/VID-2109.txt",
-      "review": {
-        "severity": "compliant",
-        "required_action": "none",
-        "remediation_deadline": null,
-        "payout_status": "released",
-        "payout_released_usd": 640.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2109.txt"
     },
     {
       "video_id": "VID-2110",
@@ -203,15 +131,7 @@
       "views": 118402,
       "declared_disclosure": "verbal_and_on_screen",
       "ad_payout_usd": 1990.0,
-      "transcript_path": "archive/transcripts/VID-2110.txt",
-      "review": {
-        "severity": "compliant",
-        "required_action": "none",
-        "remediation_deadline": null,
-        "payout_status": "released",
-        "payout_released_usd": 1990.0,
-        "reviewed_on": "2026-11-12"
-      }
+      "transcript_path": "archive/transcripts/VID-2110.txt"
     },
     {
       "video_id": "VID-2011",
